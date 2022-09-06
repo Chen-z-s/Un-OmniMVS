@@ -1,2 +1,2 @@
-# Un-OmniMVS1
+# Un-OmniMVS
 The code is then made public
